@@ -1,3 +1,13 @@
+/**
+ * Michael Dowling
+ * CSE: 4234
+ * 
+ * 
+ * Comments:
+ * This code has implemented all 11 tasks avalible within the calculator application.
+ * 
+ */
+
 //Global variables
 var prevCalc = 0;
 var calc = "";
